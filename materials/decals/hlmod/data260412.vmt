@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+  {
+  "$basetexture" "decals\hlmod\data260412"
+  "$decal" 1
+  "$decalscale" 0.35
+  "$translucent" 1
+  }
